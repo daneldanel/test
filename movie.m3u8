@@ -1,0 +1,390 @@
+#EXTINF:-1, HBO 3 (BG)
+http://136.243.177.164/HBO3/playlist.m3u8
+#EXTINF:-1, HBO 2 (BG)
+http://136.243.177.164/HBO2/playlist.m3u8 
+#EXTINF:-1, HBO (BG)
+http://136.243.177.164/HBO/playlist.m3u8 
+
+#EXTINF:-1, HBO Signature
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8 
+
+#EXTINF:-1, HBO Asia
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBONew.m3u8 
+
+#EXTINF:-1, HBO Hits
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITSNew.m3u8 
+
+#EXTINF:-1, HBO Family
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOFAMNew.m3u8 
+
+#EXTINF:-1, HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8 
+
+#EXTINF:-1, Cinemax
+https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8 
+
+#EXTINF:-1, Persiana 1 Family
+http://51.15.229.209/hls/stream.m3u8
+
+#EXTINF:-1, Persiana 2 Cinema
+http://51.15.193.156/hls/stream.m3u8
+
+#EXTINF:-1, Cine Film
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, MBC Action HD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
+
+#EXTINF:-1, MBC Action HD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
+
+#EXTINF:-1, MBC Max HD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+
+#EXTINF:-1, MBC Max HD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+
+#EXTINF:-1, Private HD
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+
+#EXTINF:-1, Star Movies Select
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
+
+#EXTINF:-1, MNX
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+
+#EXTINF:-1, Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+
+#EXTINF:-1, 7HD
+http://80.78.65.170:8282/7HD
+
+#EXTINF:-1, Cinemax RU
+http://136.243.177.164/CINEMAX/playlist.m3u8
+
+#EXTINF:-1, Sony Movies Action
+http://51.52.156.22:8888/http/009
+
+#EXTINF:-1, MBC 1
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_3.m3u8
+
+#EXTINF:-1, MBC 2 HD
+https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+
+#EXTINF:-1, MBC 2 HD
+http://iptv.ndasat.com:88/mbcunivers/Q8XVVwf6sY/1713 
+
+#EXTINF:-1, MBC 3 HD
+https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
+
+#EXTINF:-1, MBC 3 HD
+http://iptv.ndasat.com:88/mbcunivers/Q8XVVwf6sY/1712 
+
+#EXTINF:-1, MBC 4 HD
+https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
+
+#EXTINF:-1, MBC 4 HD
+http://iptv.ndasat.com:88/mbcunivers/Q8XVVwf6sY/1711 
+
+#EXTINF:-1, MBC 4 MAX
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8 
+
+#EXTINF:-1, BBC 1
+http://stream-e30453a4b.nmbs.top/m3u/Uk/7780e95574.m3u8
+
+#EXTINF:-1, BBC 2
+http://stream-e30453a4b.nmbs.top/m3u/Uk/e7dc83817b.m3u8
+
+#EXTINF:-1, BBC 3
+http://stream-e30453a4b.nmbs.top/m3u/Uk/0696595b33.m3u8
+
+#EXTINF:-1, BBC 4
+http://stream-e30453a4b.nmbs.top/m3u/Uk/d6a2e2cad2.m3u8
+
+#EXTINF:-1, Sony Movies Classic
+http://stream-e30453a4b.nmbs.top/m3u/Uk/f9d5d70274.m3u8
+
+#EXTINF:-1, Sony Movies
+http://stream-e30453a4b.nmbs.top/m3u/Uk/ffa5462084.m3u8
+
+#EXTINF:-1, 4e
+http://stream-e30453a4b.nmbs.top/m3u/Uk/b112a44fdd.m3u8
+
+#EXTINF:-1, FOX MOVIES
+http://stream-e30453a4b.nmbs.top/m3u/Uk/a253d1e9ba.m3u8
+
+#EXTINF:-1, STARZ WEST
+http://stream-e30453a4b.nmbs.top/m3u/Usa/22cdb5b343.m3u8
+
+#EXTINF:-1, STARZ COMEDY
+http://stream-e30453a4b.nmbs.top/m3u/Usa/b375662576.m3u8
+
+#EXTINF:-1, STARZ EDGE
+http://stream-e30453a4b.nmbs.top/m3u/Usa/33d3f546cb.m3u8
+
+#EXTINF:-1, MOVIETIME
+http://stream-e30453a4b.nmbs.top/m3u/Usa/178a9fc26f.m3u8
+
+#EXTINF:-1, SUNDANCE
+http://stream-e30453a4b.nmbs.top/m3u/Usa/f81e6a13cf.m3u8
+
+#EXTINF:-1, BBC AMERICA
+http://stream-e30453a4b.nmbs.top/m3u/Usa/48b743dc5d.m3u8
+
+#EXTINF:-1, Paramount Network
+http://stream-e30453a4b.nmbs.top/m3u/Usa/8b3a00b69c.m3u8
+
+#EXTINF:-1,FOX Action
+http://139.99.17.52:8081/liveorigin/hd-foxaction_720/playlist.m3u8 
+
+#EXTINF:-1,FOX CRIME
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/866
+
+#EXTINF:-1,FOX CRIME
+http://5.135.92.133:52841/out/u/394_1.m3u8 
+
+#EXTINF:-1,FOX CRIME
+http://5.135.92.133:52841/out/u/393_1.m3u8
+
+#EXTINF:-1,FOX CRIME
+http://5.135.92.133:52841/out/u/392_1.m3u8 
+
+#EXTINF:-1,FOX CRIME
+http://5.135.92.133:52841/out/u/391_1.m3u8 
+
+#EXTINF:-1,FOX
+http://5.135.92.133:52841/out/u/376_1.m3u8 
+
+#EXTINF:-1,FOX
+http://5.135.92.133:52841/out/u/375_1.m3u8 
+
+#EXTINF:-1,FOX
+http://5.135.92.133:52841/out/u/374_1.m3u8 
+
+#EXTINF:-1,FOX
+http://5.135.92.133:52841/out/u/373_1.m3u8 
+
+#EXTINF:-1,FOX
+http://5.135.92.133:52841/out/u/372_1.m3u8 
+
+#EXTINF:-1,FOX Movies
+http://ip2121.com:8081/live2/foxpre/playlist.m3u8 
+
+#EXTINF:-1,PINK ACTION
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/833
+
+#EXTINF:-1,PINK COMEDY
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/830
+
+#EXTINF:-1,PINK CRIME & MYSTERY
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/829
+
+#EXTINF:-1,PINK FAMILY
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/819
+
+#EXTINF:-1,PINK HORROR
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/810
+
+#EXTINF:-1,PINK MOVIES
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/805
+
+#EXTINF:-1,PINK SCIFI & FANTASY
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/795
+
+#EXTINF:-1,PINK THRILLER
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/789
+
+#EXTINF:-1,FOX LIFE
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/865
+
+#EXTINF:-1, DUBAI ONE HD
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 ,|US| Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
+
+#EXTINF:0,Sky Living
+http://stream-e30453a4b.nmbs.top/m3u/Uk/23d6a8d8d7.m3u8
+#EXTINF:0,Sky Atlantic
+http://stream-e30453a4b.nmbs.top/m3u/Uk/62656838a9.m3u8
+#EXTINF:0,SkyMovies Premiere
+http://stream-e30453a4b.nmbs.top/m3u/Uk/dc95171540.m3u8
+#EXTINF:0,SkyMoves Action
+http://stream-e30453a4b.nmbs.top/m3u/Uk/1dac613882.m3u8
+#EXTINF:0,SkyMovies Comedy
+http://stream-e30453a4b.nmbs.top/m3u/Uk/d7a3434f70.m3u8
+#EXTINF:0,SkyMovies Family
+http://stream-e30453a4b.nmbs.top/m3u/Uk/2fcb713312.m3u8
+#EXTINF:0,SkyMovies SciFi-Horror
+http://stream-e30453a4b.nmbs.top/m3u/Uk/9ac8dc10dd.m3u8
+#EXTINF:0,SkyMovies Crime
+http://stream-e30453a4b.nmbs.top/m3u/Uk/dea76fadcb.m3u8
+#EXTINF:0,SkyMovies Greats
+http://stream-e30453a4b.nmbs.top/m3u/Uk/6d4efb4468.m3u8
+#EXTINF:0,sky One
+http://stream-e30453a4b.nmbs.top/m3u/Uk/f5c1f1ded4.m3u8
+#EXTINF:0,sky two
+http://stream-e30453a4b.nmbs.top/m3u/Uk/bdd0b7ba1a.m3u8
+
+#EXTINF:0,HBO
+http://stream-e30453a4b.nmbs.top/m3u/Uk/e0962a78b8.m3u8
+#EXTINF:0,Warner Bros
+http://stream-e30453a4b.nmbs.top/m3u/Uk/c54814305c.m3u8
+#EXTINF:0,MN PLUS HD
+http://stream-e30453a4b.nmbs.top/m3u/Uk/e327dc79d1.m3u8
+
+#EXTINF:0,HBO
+https://bit.ly/3hKXCK4?Siberia_TV/HBO/live/a002/index/Key_Code_300820201736.m3u8 
+
+#EXTINF:0, Bein Series 1 HD
+http://iptv.ndasat.com:88/mbcunivers/Q8XVVwf6sY/2590 
+
+#EXTINF:0, Bein Movies Family 4 HD
+http://iptv.ndasat.com:88/mbcunivers/Q8XVVwf6sY/1405 
+
+#EXTINF:0, Bein Movies Drama 3 HD
+http://iptv.ndasat.com:88/mbcunivers/Q8XVVwf6sY/1068 
+
+#EXTINF:0, Bein Movies Action 2 HD
+http://iptv.ndasat.com:88/mbcunivers/Q8XVVwf6sY/968 
+
+#EXTINF:0, Bein Fox Movies
+http://iptv.ndasat.com:88/mbcunivers/Q8XVVwf6sY/3173 
+
+#EXTINF:0, Warner
+http://190.171.155.170:8081/play/a01e 
+
+#EXTINF:0, Universal
+http://190.171.155.170:8081/play/a02a 
+
+#EXTINF:0, O Summertime
+http://5.135.92.133:52841/out/u/314_1.m3u8 
+
+#EXTINF:0, O Fantasy
+http://5.135.92.133:52841/out/u/308_1.m3u8 
+
+#EXTINF:0, O Fantasy
+http://5.135.92.133:52841/out/u/307_1.m3u8 
+
+#EXTINF:0, O Fantasy
+http://5.135.92.133:52841/out/u/306_1.m3u8 
+
+#EXTINF:0, O Fantasy
+http://5.135.92.133:52841/out/u/305_1.m3u8 
+
+#EXTINF:0, O Fantasy
+http://5.135.92.133:52841/out/u/304_1.m3u8 
+
+#EXTINF:0, O Life
+http://5.135.92.133:52841/out/u/29_1.m3u8 
+
+#EXTINF:0, O Life
+http://5.135.92.133:52841/out/u/28_1.m3u8 
+
+#EXTINF:0, O Life
+http://5.135.92.133:52841/out/u/27_1.m3u8 
+
+#EXTINF:0, O Life
+http://5.135.92.133:52841/out/u/26_1.m3u8 
+
+#EXTINF:0, O Life
+http://5.135.92.133:52841/out/u/25_1.m3u8 
+
+#EXTINF:0, Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8 
+
+#EXTINF:0, Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8 
+
+#EXTINF:0, AMC
+http://188.35.9.11:21151/udp/198y 
+
+#EXTINF:0, RSI LA1
+http://188.155.22.114:9981/stream/channelid/1368598780 
+
+#EXTINF:-1, Sky Atlantic
+http://mlsh1.com:2086/iptvreal/55225/25
+
+#EXTINF:-1, ???
+http://mlsh1.com:2086/iptvreal/55225/29
+
+#EXTINF:-1, ???
+http://mlsh1.com:2086/iptvreal/55225/30
+
+#EXTINF:-1, ???
+http://mlsh1.com:2086/iptvreal/55225/31
+
+#EXTINF:-1, ???
+http://mlsh1.com:2086/iptvreal/55225/32
+
+#EXTINF:-1, ???
+http://mlsh1.com:2086/iptvreal/55225/33
+
+#EXTINF:-1, ???
+http://mlsh1.com:2086/iptvreal/55225/34
+
+#EXTINF:-1, ???
+http://mlsh1.com:2086/iptvreal/55225/71
+
+#EXTINF:-1, ???
+http://mlsh1.com:2086/iptvreal/55225/74
+
+#EXTINF:-1, ???
+http://mlsh1.com:2086/iptvreal/55225/75
+
+#EXTINF:-1, TCM Movies
+http://mlsh1.com:2086/iptvreal/55225/78
+
+#EXTINF:-1, Fox
+http://mlsh1.com:2086/iptvreal/55225/96
+
+
+
+
+
+#EXTINF:-1, Hustler
+http://188.35.9.26:2030/udp/047c
+
+#EXTINF:-1, Vivid Red
+http://188.35.9.12:21131/udp/142d
+
+#EXTINF:-1, Brazzers TV Europe
+http://188.35.9.26:9031/udp/117m
+
+#EXTINF:-1,PINK EROTIC 1
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/828
+#EXTINF:-1,PINK EROTIC 2
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/827
+#EXTINF:-1,PINK EROTIC 3
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/826
+#EXTINF:-1,PINK EROTIC 4
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/825
+#EXTINF:-1,PINK EROTIC 5
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/824
+#EXTINF:-1,PINK EROTIC 6
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/823
+#EXTINF:-1,PINK EROTIC 7
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/822
+#EXTINF:-1,PINK EROTIC 8
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/821
+
+#EXTINF:-1,Playboy
+http://nodemaster.homelinux.com/_PLAYBOYTV/mpegts?token=cOAOwU8SC2 
+
+#EXTINF:-1,Sexprive
+http://nodemaster.homelinux.com/_SEXPRIVE/mpegts?token=cOAOwU8SC2 
+
+
+
+
+
+#EXTINF:-1,CINEMAX BG
+http://136.243.177.164/CINEMAX/playlist.m3u8
+#EXTINF:-1,CINEMAX 2 BG
+http://136.243.177.164/CINEMAX/playlist.m3u8
+#EXTINF:-1,HBO BG
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1,HBO 2 BG
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1,HBO 3 BG
+http://136.243.177.164/HBO/playlist.m3u8
