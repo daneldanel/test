@@ -1,8 +1,0 @@
-#EXTINF:-1 tvg-id="HBO.ro" tvg-name="HBO" group-title="Movies" audio-track="ro" ,HBO
-http://185.2.82.97:14010/sop.ts
-
-#EXTINF:-1 tvg-id="HBO2.ro" tvg-name="HBO2" group-title="Movies" audio-track="ro" ,HBO 2
-http://185.2.82.97:14020/sop.ts
-
-#EXTINF:-1 tvg-id="HBO3.ro" tvg-name="HBO3" group-title="Movies" audio-track="ro" ,HBO 3
-http://185.2.82.97:14030/sop.ts
